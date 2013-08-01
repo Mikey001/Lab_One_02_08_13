@@ -1,0 +1,5 @@
+public class LabOne {
+	public void start() {
+		System.out.println("Hey there I am in Lab 1, SE206");
+	}
+}
